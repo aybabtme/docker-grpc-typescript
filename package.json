@@ -2,7 +2,7 @@
   "name": "docker-grpc-typescript",
   "version": "1.0.0",
   "dependencies": {
-    "@improbable-eng/grpc-web": "^0.13.0",
+    "@improbable-eng/grpc-web": "^0.15.0",
     "@types/google-protobuf": "^3.7.4",
     "google-protobuf": "^3.14.0",
     "ts-protoc-gen": "^0.14.0",
